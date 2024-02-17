@@ -12,30 +12,32 @@
     </div>
 </header>
 <body>
-    <div id="middle-section">
-        <form id="country">
-            <label>Country: </label>
-            <input type="text" list="country-choice">
-            <datalist id="country-choice">
-                <option value="Canda"></option>
-                <option value="USA"></option>
-                <!-- Generate more options from code. -->
-            </datalist>
-        </form>
-        <div id="languages">
-            <h2 class="placeholder-content"> - Languages - </h2>
-        </div> 
-        <div id="weather-div">
-            <h2 id="temperature"> - temp - </h2>
-            <img id="weather-icon" src="images/weather-placeholder.png">
+    <div id="divided">
+        <div id="middle-section">
+            <form id="country">
+                <label>Country: </label>
+                <input type="text" list="country-choice" name="country">
+                <datalist id="country-choice">
+                    
+                    <!-- Generate more options from code. -->
+                </datalist>
+            </form>
+            <div id="languages">
+                <h2 class="placeholder-content"> - Languages - </h2>
+            </div> 
+            <div id="weather-div">
+                <h2 id="temperature"> - temp - </h2>
+                <img id="weather-icon" src="images/weather-placeholder.png">
+            </div>
+            <h2 id="expenses"> - expenses - </h2>
+            <h2 id="timezone"> - timezone - </h2>
         </div>
-        <h2 id="expenses"> - expenses - </h2>
-        <h2 id="timezone"> - timezone - </h2>
+    
+        <div id="images-div">
+            <p id="images-title">At a glance</p>
+            <h2 class="placeholder-content"> - Images - </h2>
+        </div>
     </div>
-
-    <div id="images-div">
-        <p id="images-title">At a glance</p>
-        <h2 class="placeholder-content"> - Images - </h2>
-    </div>
+    <script src="script.js"></script>
 </body>
 </html>

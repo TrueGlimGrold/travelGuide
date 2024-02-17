@@ -1,0 +1,923 @@
+
+{
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "average_cost_of_living": 22.8,
+        "time_zone": "UTC+4:30",
+        "languages": ["Pashto", "Dari"]
+      },
+      {
+        "name": "Albania",
+        "average_cost_of_living": 40.8,
+        "time_zone": "UTC+1",
+        "languages": ["Albanian"]
+      },
+      {
+        "name": "Algeria",
+        "average_cost_of_living": 29.5,
+        "time_zone": "UTC+1",
+        "languages": ["Arabic", "Tamazight"]
+      },
+      {
+        "name": "Argentina",
+        "average_cost_of_living": 27.8,
+        "time_zone": "UTC-3",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Armenia",
+        "average_cost_of_living": 38.6,
+        "time_zone": "UTC+4",
+        "languages": ["Armenian"]
+      },
+      {
+        "name": "Australia",
+        "average_cost_of_living": 72.8,
+        "time_zone": "UTC+8 to +11",
+        "languages": ["English"]
+      },
+      {
+        "name": "Austria",
+        "average_cost_of_living": 66.8,
+        "time_zone": "UTC+1",
+        "languages": ["German"]
+      },
+      {
+        "name": "Azerbaijan",
+        "average_cost_of_living": 31.1,
+        "time_zone": "UTC+4",
+        "languages": ["Azerbaijani"]
+      },
+      {
+        "name": "Bahrain",
+        "average_cost_of_living": 53.7,
+        "time_zone": "UTC+3",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Bangladesh",
+        "average_cost_of_living": 24.9,
+        "time_zone": "UTC+6",
+        "languages": ["Bengali"]
+      },
+      {
+        "name": "Barbados",
+        "average_cost_of_living": 79.4,
+        "time_zone": "UTC-4",
+        "languages": ["English"]
+      },
+      {
+        "name": "Belarus",
+        "average_cost_of_living": 27.1,
+        "time_zone": "UTC+3",
+        "languages": ["Belarusian", "Russian"]
+      },
+      {
+        "name": "Belgium",
+        "average_cost_of_living": 63.0,
+        "time_zone": "UTC+1",
+        "languages": ["Dutch", "French", "German"]
+      },
+      {
+        "name": "Belize",
+        "average_cost_of_living": 48.0,
+        "time_zone": "UTC-6",
+        "languages": ["English"]
+      },
+      {
+        "name": "Bermuda",
+        "average_cost_of_living": 133.6,
+        "time_zone": "UTC-4",
+        "languages": ["English"]
+      },
+      {
+        "name": "Bolivia",
+        "average_cost_of_living": 28.3,
+        "time_zone": "UTC-4 to -5",
+        "languages": ["Spanish", "Quechua", "Aymara"]
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "average_cost_of_living": 34.7,
+        "time_zone": "UTC+1",
+        "languages": ["Bosnian", "Croatian", "Serbian"]
+      },
+      {
+        "name": "Botswana",
+        "average_cost_of_living": 30.1,
+        "time_zone": "UTC+2",
+        "languages": ["English", "Setswana"]
+      },
+      {
+        "name": "Brazil",
+        "average_cost_of_living": 35.2,
+        "time_zone": "UTC-2 to -5",
+        "languages": ["Portuguese"]
+      },
+      {
+        "name": "Brunei",
+        "average_cost_of_living": 50.5,
+        "time_zone": "UTC+8",
+        "languages": ["Malay"]
+      },
+      {
+        "name": "Bulgaria",
+        "average_cost_of_living": 38.7,
+        "time_zone": "UTC+2",
+        "languages": ["Bulgarian"]
+      },
+      {
+        "name": "Cambodia",
+        "average_cost_of_living": 38.5,
+        "time_zone": "UTC+7",
+        "languages": ["Khmer"]
+      },
+      {
+        "name": "Cameroon",
+        "average_cost_of_living": 39.6,
+        "time_zone": "UTC+1",
+        "languages": ["French", "English"]
+      },
+      {
+        "name": "Canada",
+        "average_cost_of_living": 68.4,
+        "time_zone": "UTC-3.5 to -8",
+        "languages": ["English", "French"]
+      },
+      {
+        "name": "Chile",
+        "average_cost_of_living": 39.9,
+        "time_zone": "UTC-3 to -5",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "China",
+        "average_cost_of_living": 34.1,
+        "time_zone": "UTC+8",
+        "languages": ["Mandarin"]
+      },
+      {
+        "name": "Colombia",
+        "average_cost_of_living": 30.6,
+        "time_zone": "UTC-5",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Costa Rica",
+        "average_cost_of_living": 53.6,
+        "time_zone": "UTC-6",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Croatia",
+        "average_cost_of_living": 46.9,
+        "time_zone": "UTC+1",
+        "languages": ["Croatian"]
+      },
+      {
+        "name": "Cuba",
+        "average_cost_of_living": 45.6,
+        "time_zone": "UTC-5",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Cyprus",
+        "average_cost_of_living": 57.1,
+        "time_zone": "UTC+2",
+        "languages": ["Greek", "Turkish"]
+      },
+      {
+        "name": "Czech Republic",
+        "average_cost_of_living": 48.6,
+        "time_zone": "UTC+1",
+        "languages": ["Czech"]
+      },
+      {
+        "name": "Denmark",
+        "average_cost_of_living": 75.2,
+        "time_zone": "UTC+1",
+        "languages": ["Danish"]
+      },
+      {
+        "name": "Dominican Republic",
+        "average_cost_of_living": 39.0,
+        "time_zone": "UTC-4",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Ecuador",
+        "average_cost_of_living": 33.6,
+        "time_zone": "UTC-5",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Egypt",
+        "average_cost_of_living": 29.1,
+        "time_zone": "UTC+2",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "El Salvador",
+        "average_cost_of_living": 41.1,
+        "time_zone": "UTC-6",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Estonia",
+        "average_cost_of_living": 53.0,
+        "time_zone": "UTC+2",
+        "languages": ["Estonian"]
+      },
+      {
+        "name": "Ethiopia",
+        "average_cost_of_living": 43.1,
+        "time_zone": "UTC+3",
+        "languages": ["Amharic"]
+      },
+      {
+        "name": "Fiji",
+        "average_cost_of_living": 34.8,
+        "time_zone": "UTC+12",
+        "languages": ["English", "Fijian", "Hindi"]
+      },
+      {
+        "name": "Finland",
+        "average_cost_of_living": 65.5,
+        "time_zone": "UTC+2",
+        "languages": ["Finnish", "Swedish"]
+      },
+      {
+        "name": "France",
+        "average_cost_of_living": 66.0,
+        "time_zone": "UTC+1",
+        "languages": ["French"]
+      },
+      {
+        "name": "Georgia",
+        "average_cost_of_living": 37.2,
+        "time_zone": "UTC+4",
+        "languages": ["Georgian"]
+      },
+      {
+        "name": "Germany",
+        "average_cost_of_living": 62.7,
+        "time_zone": "UTC+1",
+        "languages": ["German"]
+      },
+      {
+        "name": "Ghana",
+        "average_cost_of_living": 26.0,
+        "time_zone": "UTC+0",
+        "languages": ["English"]
+      },
+      {
+        "name": "Greece",
+        "average_cost_of_living": 54.2,
+        "time_zone": "UTC+2",
+        "languages": ["Greek"]
+      },
+      {
+        "name": "Guatemala",
+        "average_cost_of_living": 37.7,
+        "time_zone": "UTC-6",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Guernsey",
+        "average_cost_of_living": 67.5,
+        "time_zone": "UTC+0",
+        "languages": ["English"]
+      },
+      {
+        "name": "Guyana",
+        "average_cost_of_living": 46.2,
+        "time_zone": "UTC-4",
+        "languages": ["English"]
+      },
+      {
+        "name": "Honduras",
+        "average_cost_of_living": 37.3,
+        "time_zone": "UTC-6",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Hong Kong (China)",
+        "average_cost_of_living": 71.5,
+        "time_zone": "UTC+8",
+        "languages": ["Chinese", "English"]
+      },
+      {
+        "name": "Hungary",
+        "average_cost_of_living": 43.4,
+        "time_zone": "UTC+1",
+        "languages": ["Hungarian"]
+      },
+      {
+        "name": "Iceland",
+        "average_cost_of_living": 85.7,
+        "time_zone": "UTC",
+        "languages": ["Icelandic"]
+      },
+      {
+        "name": "India",
+        "average_cost_of_living": 22.2,
+        "time_zone": "UTC+5:30",
+        "languages": ["Hindi", "English"]
+      },
+      {
+        "name": "Indonesia",
+        "average_cost_of_living": 28.5,
+        "time_zone": "UTC+7 to +9",
+        "languages": ["Indonesian"]
+      },
+      {
+        "name": "Iran",
+        "average_cost_of_living": 26.9,
+        "time_zone": "UTC+3:30",
+        "languages": ["Persian"]
+      },
+      {
+        "name": "Iraq",
+        "average_cost_of_living": 30.2,
+        "time_zone": "UTC+3",
+        "languages": ["Arabic", "Kurdish"]
+      },
+      {
+        "name": "Ireland",
+        "average_cost_of_living": 66.5,
+        "time_zone": "UTC",
+        "languages": ["Irish", "English"]
+      },
+      {
+        "name": "Isle Of Man",
+        "average_cost_of_living": 59.8,
+        "time_zone": "UTC",
+        "languages": ["English", "Manx"]
+      },
+      {
+        "name": "Israel",
+        "average_cost_of_living": 67.2,
+        "time_zone": "UTC+2",
+        "languages": ["Hebrew", "Arabic"]
+      },
+      {
+        "name": "Italy",
+        "average_cost_of_living": 58.9,
+        "time_zone": "UTC+1",
+        "languages": ["Italian"]
+      },
+      {
+        "name": "Ivory Coast",
+        "average_cost_of_living": 44.7,
+        "time_zone": "UTC",
+        "languages": ["French"]
+      },
+      {
+        "name": "Jamaica",
+        "average_cost_of_living": 53.1,
+        "time_zone": "UTC-5",
+        "languages": ["English"]
+      },
+      {
+        "name": "Japan",
+        "average_cost_of_living": 50.7,
+        "time_zone": "UTC+9",
+        "languages": ["Japanese"]
+      },
+      {
+        "name": "Jersey",
+        "average_cost_of_living": 74.3,
+        "time_zone": "UTC",
+        "languages": ["English", "French"]
+      },
+      {
+        "name": "Jordan",
+        "average_cost_of_living": 43.0,
+        "time_zone": "UTC+2",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Kazakhstan",
+        "average_cost_of_living": 33.5,
+        "time_zone": "UTC+5 to +6",
+        "languages": ["Kazakh", "Russian"]
+      },
+      {
+        "name": "Kenya",
+        "average_cost_of_living": 24.8,
+        "time_zone": "UTC+3",
+        "languages": ["Swahili", "English"]
+      },
+      {
+        "name": "Kosovo (Disputed Territory)",
+        "average_cost_of_living": 31.3,
+        "time_zone": "UTC+1",
+        "languages": ["Albanian", "Serbian"]
+      },
+      {
+        "name": "Kuwait",
+        "average_cost_of_living": 43.4,
+        "time_zone": "UTC+3",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Kyrgyzstan",
+        "average_cost_of_living": 26.9,
+        "time_zone": "UTC+6",
+        "languages": ["Kyrgyz", "Russian"]
+      },
+      {
+        "name": "Latvia",
+        "average_cost_of_living": 51.4,
+        "time_zone": "UTC+2",
+        "languages": ["Latvian"]
+      },
+      {
+        "name": "Lebanon",
+        "average_cost_of_living": 46.3,
+        "time_zone": "UTC+2",
+        "languages": ["Arabic", "French", "English"]
+      },
+      {
+        "name": "Lithuania",
+        "average_cost_of_living": 48.4,
+        "time_zone": "UTC+2",
+        "languages": ["Lithuanian"]
+      },
+      {
+        "name": "Luxembourg",
+        "average_cost_of_living": 65.3,
+        "time_zone": "UTC+1",
+        "languages": ["Luxembourgish", "French", "German"]
+      },
+      {
+        "name": "Macao (China)",
+        "average_cost_of_living": 56.2,
+        "time_zone": "UTC+8",
+        "languages": ["Chinese", "Portuguese"]
+      },
+      {
+        "name": "Madagascar",
+        "average_cost_of_living": 25.2,
+        "time_zone": "UTC+3",
+        "languages": ["Malagasy", "French"]
+      },
+      {
+        "name": "Malaysia",
+        "average_cost_of_living": 30.5,
+        "time_zone": "UTC+8",
+        "languages": ["Malay"]
+      },
+      {
+        "name": "Maldives",
+        "average_cost_of_living": 50.0,
+        "time_zone": "UTC+5",
+        "languages": ["Dhivehi"]
+      },
+      {
+        "name": "Malta",
+        "average_cost_of_living": 55.1,
+        "time_zone": "UTC+1",
+        "languages": ["Maltese", "English"]
+      },
+      {
+        "name": "Mauritius",
+        "average_cost_of_living": 39.8,
+        "time_zone": "UTC+4",
+        "languages": ["English", "French", "Mauritian Creole"]
+      },
+      {
+        "name": "Mexico",
+        "average_cost_of_living": 43.8,
+        "time_zone": "UTC-8 to -6",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Moldova",
+        "average_cost_of_living": 34.6,
+        "time_zone": "UTC+2",
+        "languages": ["Romanian"]
+      },
+      {
+        "name": "Monaco",
+        "average_cost_of_living": null,
+        "time_zone": "UTC+1",
+        "languages": ["French"]
+      },
+      {
+        "name": "Mongolia",
+        "average_cost_of_living": 32.7,
+        "time_zone": "UTC+7 to +8",
+        "languages": ["Mongolian"]
+      },
+      {
+        "name": "Montenegro",
+        "average_cost_of_living": 40.9,
+        "time_zone": "UTC+1",
+        "languages": ["Montenegrin"]
+      },
+      {
+        "name": "Morocco",
+        "average_cost_of_living": 29.9,
+        "time_zone": "UTC",
+        "languages": ["Arabic", "Berber"]
+      },
+      {
+        "name": "Mozambique",
+        "average_cost_of_living": 43.0,
+        "time_zone": "UTC+2",
+        "languages": ["Portuguese"]
+      },
+      {
+        "name": "Myanmar",
+        "average_cost_of_living": 38.6,
+        "time_zone": "UTC+6:30",
+        "languages": ["Burmese"]
+      },
+      {
+        "name": "Namibia",
+        "average_cost_of_living": 30.8,
+        "time_zone": "UTC+1",
+        "languages": ["English", "Afrikaans"]
+      },
+      {
+        "name": "Nepal",
+        "average_cost_of_living": 26.9,
+        "time_zone": "UTC+5:45",
+        "languages": ["Nepali"]
+      },
+      {
+        "name": "Netherlands",
+        "average_cost_of_living": 64.3,
+        "time_zone": "UTC+1",
+        "languages": ["Dutch"]
+      },
+      {
+        "name": "New Caledonia (France)",
+        "average_cost_of_living": null,
+        "time_zone": "UTC+11",
+        "languages": ["French"]
+      },
+      {
+        "name": "New Zealand",
+        "average_cost_of_living": 68.2,
+        "time_zone": "UTC+12 to +13",
+        "languages": ["English", "Maori"]
+      },
+      {
+        "name": "Nicaragua",
+        "average_cost_of_living": 33.6,
+        "time_zone": "UTC-6",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Nigeria",
+        "average_cost_of_living": 19.3,
+        "time_zone": "UTC+1",
+        "languages": ["English"]
+      },
+      {
+        "name": "North Macedonia",
+        "average_cost_of_living": 34.1,
+        "time_zone": "UTC+1",
+        "languages": ["Macedonian"]
+      },
+      {
+        "name": "Norway",
+        "average_cost_of_living": 79.2,
+        "time_zone": "UTC+1",
+        "languages": ["Norwegian"]
+      },
+      {
+        "name": "Oman",
+        "average_cost_of_living": 44.4,
+        "time_zone": "UTC+4",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Pakistan",
+        "average_cost_of_living": 18.5,
+        "time_zone": "UTC+5",
+        "languages": ["Urdu", "English"]
+      },
+      {
+        "name": "Palestine",
+        "average_cost_of_living": 43.3,
+        "time_zone": "UTC+2",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Panama",
+        "average_cost_of_living": 47.4,
+        "time_zone": "UTC-5",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Papua New Guinea",
+        "average_cost_of_living": null,
+        "time_zone": "UTC+10",
+        "languages": ["English"]
+      },
+      {
+        "name": "Paraguay",
+        "average_cost_of_living": 27.6,
+        "time_zone": "UTC-3",
+        "languages": ["Spanish", "Guarani"]
+      },
+      {
+        "name": "Peru",
+        "average_cost_of_living": 30.9,
+        "time_zone": "UTC-5",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Philippines",
+        "average_cost_of_living": 33.6,
+        "time_zone": "UTC+8",
+        "languages": ["Filipino", "English"]
+      },
+      {
+        "name": "Poland",
+        "average_cost_of_living": 41.9,
+        "time_zone": "UTC+1",
+        "languages": ["Polish"]
+      },
+      {
+        "name": "Portugal",
+        "average_cost_of_living": 46.6,
+        "time_zone": "UTC",
+        "languages": ["Portuguese"]
+      },
+      {
+        "name": "Puerto Rico",
+        "average_cost_of_living": 64.4,
+        "time_zone": "UTC-4",
+        "languages": ["Spanish", "English"]
+      },
+      {
+        "name": "Qatar",
+        "average_cost_of_living": 55.0,
+        "time_zone": "UTC+3",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Romania",
+        "average_cost_of_living": 38.8,
+        "time_zone": "UTC+2",
+        "languages": ["Romanian"]
+      },
+      {
+        "name": "Russia",
+        "average_cost_of_living": 29.5,
+        "time_zone": "UTC+2 to +12",
+        "languages": ["Russian"]
+      },
+      {
+        "name": "Rwanda",
+        "average_cost_of_living": 26.3,
+        "time_zone": "UTC+2",
+        "languages": ["Kinyarwanda", "French", "English"]
+      },
+      {
+        "name": "Saudi Arabia",
+        "average_cost_of_living": 47.4,
+        "time_zone": "UTC+3",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Senegal",
+        "average_cost_of_living": 44.0,
+        "time_zone": "UTC",
+        "languages": ["French"]
+      },
+      {
+        "name": "Serbia",
+        "average_cost_of_living": 38.3,
+        "time_zone": "UTC+1",
+        "languages": ["Serbian"]
+      },
+      {
+        "name": "Seychelles",
+        "average_cost_of_living": null,
+        "time_zone": "UTC+4",
+        "languages": ["Seychellois Creole", "English", "French"]
+      },
+      {
+        "name": "Sierra Leone",
+        "average_cost_of_living": null,
+        "time_zone": "UTC",
+        "languages": ["English"]
+      },
+      {
+        "name": "Singapore",
+        "average_cost_of_living": 81.9,
+        "time_zone": "UTC+8",
+        "languages": ["English", "Malay", "Mandarin", "Tamil"]
+      },
+      {
+        "name": "Slovakia",
+        "average_cost_of_living": 47.9,
+        "time_zone": "UTC+1",
+        "languages": ["Slovak"]
+      },
+      {
+        "name": "Slovenia",
+        "average_cost_of_living": 49.3,
+        "time_zone": "UTC+1",
+        "languages": ["Slovenian"]
+      },
+      {
+        "name": "South Africa",
+        "average_cost_of_living": 33.8,
+        "time_zone": "UTC+2",
+        "languages": ["Zulu", "Xhosa", "Afrikaans", "English", "Northern Sotho", "Southern Sotho", "Swazi", "Tswana", "Venda", "Tsonga"]
+      },
+      {
+        "name": "South Korea",
+        "average_cost_of_living": 64.4,
+        "time_zone": "UTC+9",
+        "languages": ["Korean"]
+      },
+      {
+        "name": "Spain",
+        "average_cost_of_living": 48.4,
+        "time_zone": "UTC+1",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Sri Lanka",
+        "average_cost_of_living": 33.2,
+        "time_zone": "UTC+5:30",
+        "languages": ["Sinhala", "Tamil"]
+      },
+      {
+        "name": "Sudan",
+        "average_cost_of_living": null,
+        "time_zone": "UTC+2",
+        "languages": ["Arabic", "English"]
+      },
+      {
+        "name": "Suriname",
+        "average_cost_of_living": null,
+        "time_zone": "UTC-3",
+        "languages": ["Dutch"]
+      },
+      {
+        "name": "Swaziland",
+        "average_cost_of_living": null,
+        "time_zone": "UTC+2",
+        "languages": ["English", "Swati"]
+      },
+      {
+        "name": "Sweden",
+        "average_cost_of_living": 62.2,
+        "time_zone": "UTC+1",
+        "languages": ["Swedish"]
+      },
+      {
+        "name": "Switzerland",
+        "average_cost_of_living": 112.2,
+        "time_zone": "UTC+1",
+        "languages": ["German", "French", "Italian", "Romansh"]
+      },
+      {
+        "name": "Syria",
+        "average_cost_of_living": 25.0,
+        "time_zone": "UTC+2",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Taiwan",
+        "average_cost_of_living": 54.1,
+        "time_zone": "UTC+8",
+        "languages": ["Mandarin"]
+      },
+      {
+        "name": "Tajikistan",
+        "average_cost_of_living": 24.5,
+        "time_zone": "UTC+5",
+        "languages": ["Tajik"]
+      },
+      {
+        "name": "Tanzania",
+        "average_cost_of_living": 27.4,
+        "time_zone": "UTC+3",
+        "languages": ["Swahili", "English"]
+      },
+      {
+        "name": "Thailand",
+        "average_cost_of_living": 35.5,
+        "time_zone": "UTC+7",
+        "languages": ["Thai"]
+      },
+      {
+        "name": "Timor-Leste",
+        "average_cost_of_living": 34.3,
+        "time_zone": "UTC+9",
+        "languages": ["Tetum", "Portuguese"]
+      },
+      {
+        "name": "Togo",
+        "average_cost_of_living": 30.8,
+        "time_zone": "UTC",
+        "languages": ["French"]
+      },
+      {
+        "name": "Trinidad And Tobago",
+        "average_cost_of_living": 57.3,
+        "time_zone": "UTC-4",
+        "languages": ["English"]
+      },
+      {
+        "name": "Tunisia",
+        "average_cost_of_living": 32.3,
+        "time_zone": "UTC+1",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Turkey",
+        "average_cost_of_living": 36.7,
+        "time_zone": "UTC+3",
+        "languages": ["Turkish"]
+      },
+      {
+        "name": "Turkmenistan",
+        "average_cost_of_living": 30.8,
+        "time_zone": "UTC+5",
+        "languages": ["Turkmen"]
+      },
+      {
+        "name": "Uganda",
+        "average_cost_of_living": 23.7,
+        "time_zone": "UTC+3",
+        "languages": ["English", "Swahili"]
+      },
+      {
+        "name": "Ukraine",
+        "average_cost_of_living": 29.8,
+        "time_zone": "UTC+2",
+        "languages": ["Ukrainian"]
+      },
+      {
+        "name": "United Arab Emirates",
+        "average_cost_of_living": 67.6,
+        "time_zone": "UTC+4",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "United Kingdom",
+        "average_cost_of_living": 72.8,
+        "time_zone": "UTC",
+        "languages": ["English"]
+      },
+      {
+        "name": "United States",
+        "average_cost_of_living": 67.4,
+        "time_zone": "UTC-4 to -10",
+        "languages": ["English"]
+      },
+      {
+        "name": "Uruguay",
+        "average_cost_of_living": 43.6,
+        "time_zone": "UTC-2 to -3",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Uzbekistan",
+        "average_cost_of_living": 29.1,
+        "time_zone": "UTC+5",
+        "languages": ["Uzbek", "Russian"]
+      },
+      {
+        "name": "Venezuela",
+        "average_cost_of_living": 20.9,
+        "time_zone": "UTC-4",
+        "languages": ["Spanish"]
+      },
+      {
+        "name": "Vietnam",
+        "average_cost_of_living": 35.0,
+        "time_zone": "UTC+7",
+        "languages": ["Vietnamese"]
+      },
+      {
+        "name": "Yemen",
+        "average_cost_of_living": 24.0,
+        "time_zone": "UTC+3",
+        "languages": ["Arabic"]
+      },
+      {
+        "name": "Zambia",
+        "average_cost_of_living": 31.9,
+        "time_zone": "UTC+2",
+        "languages": ["English"]
+      },
+      {
+        "name": "Zimbabwe",
+        "average_cost_of_living": 30.7,
+        "time_zone": "UTC+2",
+        "languages": ["English", "Shona", "Sindebele"]
+      }
+    ]
+  }
